@@ -65,7 +65,7 @@
 - [Presentation](DogClassificationPresentation.pdf)
 
 ## Business Understanding
-The ASPCA has informed us that over 6.5 million animals are taken into US shelters annualy, which 3.3 million of those are dogs. Only around 50% of the sheltered animals are adopted, 20-30% of the remaining sheltered dogs are euthanized. 
+The ASPCA has informed us that over 6.5 million animals are taken into US shelters annually, which 3.3 million of those are dogs. Only around 50% of the sheltered animals are adopted, 20-30% of the remaining sheltered dogs are euthanized. 
 
 ## Business Problem
 The task at hand is to build a image classification system utilizing pictures of 120 breeds of dogs to classify incoming strays into their breed category. This will help identify each incoming stray and decrease the workload on the volunteers and workers at animal shelters. By labeling each stray it will help potential adopters search for the specific dog breed they want or the ability to research the temperament and overall information about raising the specific dog breed before their adoption.
