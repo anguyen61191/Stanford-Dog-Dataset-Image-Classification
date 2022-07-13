@@ -11,38 +11,40 @@
 
 ```
 .
-├── OldNotebooks
+├── Images
+|   ├── 2ndModel.png
+|   ├── 3rdModel.png
+|   ├── BaseModel.png
+|   ├── DogImages.png
+|   ├── DogImagesAugmentation.png
+|   ├── FinalModel.png
+|   ├── FinalModelAccuracy.png
+|   ├── FinalModelLoss.png
+|   ├── GermanShepherdPrediction.png
+|   ├── Girl.png
+|   ├── TestPrediction1.png
+|   ├── TwoDogPrediction.png
+|   ├── ZukoPrediction.png
+|   └── dogs-1280x640.png
+├── Old Notebooks
 |   ├── AndyNotebook.ipynb
-|   ├── AndyNotebook2.ipynb
-|   ├── Pneumonia_img_classification.ipynb
-|   ├── Pneumonia_img_classification2.ipynb
-|   ├── bryan_final_working_notebook.ipynb
-|   ├── bryan_other_w_notebook.ipynb
-|   └── bryan_working_n_2.ipynb
-├── img
-│   ├── 2ndModel.png
-│   ├── 3rdModel.png
-│   ├── 4thModel.png
-|   ├── applsci-08-01215-g001.webp
-│   ├── BaseModel.png
-|   ├── final_model_cnn.png
-|   ├── logreg.png
-│   ├── FinalModel.png
-|   ├── model_1cnn.png
-|   ├── model_2cnn.png
-|   ├── PneumoniaImages.png
-|   ├── PneumoniavsNonPneumonia.png
-|   ├── Screenshot
-|   ├── Screenshot
-│   └── Screenshot
-├── misc
-|   ├── README.md.md
-|   ├── README1.ipynb
-|   └── README2.ipynb
+|   ├── Model Testing.ipynb
+|   └── TestGPUtensorflow.ipynb
+├── TestImages
+│   ├── GermanShepherd.jpg
+│   ├── Guillermo.jpg
+|   ├── Guillermo2.jpg
+|   ├── IMG_20180916_133046.jpg
+|   ├── IMG_20181102_144409.jpg
+|   ├── MVIMG_20180706_171121.jpg
+|   ├── MVIMG_20180916_133030.jpg
+|   ├── Poodle.jpg
+|   ├── girl.jpg
+│   └── test.jpg
 ├── .gitignore
-├── Mint Simple Line Minimalist Medical Presentation.pdf
-├── PneumoniaClassifcation.ipynb
-└── README.md
+├── DogClassificationPresentation.pdf
+├── README.md
+└── StanfordDogDataImageClassification.ipynb
 ```
 ## Table of Contents
 - Links
